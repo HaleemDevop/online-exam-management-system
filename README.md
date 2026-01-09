@@ -1,4 +1,7 @@
 # online-exam-management-system
 Java console-based application for conducting online exams using JDBC and MySQL.
 ## 🖥️ Console Output Demo
-![Exam Output](exam-output.png)
+
+![Exam Output - Add Question](exam-output-1.png)
+![Exam Output - Exam Result](exam-output-2.png)
+
